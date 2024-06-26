@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup # type: ignore
 from setuptools_rust import Binding, RustExtension
 
 setup(
